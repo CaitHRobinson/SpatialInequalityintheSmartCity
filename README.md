@@ -6,4 +6,4 @@ As a central component of the smart city, sensor infrastructures locate and meas
 
 > Sensor desert, smart city, spatial inequality, data justice, recognition.
 
-**Acknowledgements:** We are grateful to our project partners, Newcastle Urban Observatory. 
+**Acknowledgements:** This project is funded by the Alan Turing Insitute project #R-NEW-001. We are also grateful to our project partners, Newcastle Urban Observatory. 
