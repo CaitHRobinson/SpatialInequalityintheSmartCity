@@ -6,3 +6,5 @@
 
 **Census Tract Boundaries:** Data is broken down by census tracts  that encompass between 2,500 and 8,000 people. A variety of different boundaries are included, one for each Census variable. This is because areas in which values for each variable was NULL were removed from the shapefile. A complete set of boundaries is available for [income](https://github.com/CaitHRobinson/SpatialInequalityintheSmartCity/blob/master/Chicago/Chicago_AllTractsWithout%20Nulls_Income.shp.zip) and [African American population](https://github.com/CaitHRobinson/SpatialInequalityintheSmartCity/blob/master/Chicago/Chicaco_AllTractsWithoutNulls_AfricanAmerican.shp.zip). Additionally a set of boundaries is included that contains only those tracts with a sensor for [income](https://github.com/CaitHRobinson/SpatialInequalityintheSmartCity/blob/master/Chicago/Chicago_AllTractsWithoutNulls_Sensor_Income.shp.zip) and [African American population](https://github.com/CaitHRobinson/SpatialInequalityintheSmartCity/blob/master/Chicago/Chicago_AllTractsWithoutNulls_Sensor_AfricanAmerican.shp.zip.).
 
+
+
