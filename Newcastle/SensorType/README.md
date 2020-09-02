@@ -7,4 +7,4 @@ This folder contains the data and code to calculate the proportion of UO sensors
 
 The figure can be generated with the accompanying [R code](https://github.com/CaitHRobinson/SpatialInequalityintheSmartCity/blob/master/Newcastle/SensorType/MultipleGraphs.rmd.)
 
-![Figure_2_Revised_300dpi](https://user-images.githubusercontent.com/57355504/92009513-8b5c6700-ed40-11ea-94aa-1896c58e1c29.jpg)
+![Figure_2_Revised_300dpi](https://user-images.githubusercontent.com/57355504/92009513-8b5c6700-ed40-11ea-94aa-1896c58e1c29.jpg).
