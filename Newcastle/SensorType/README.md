@@ -7,3 +7,5 @@ This folder contains the data and code to calculate the proportion of UO sensors
 
 **Generating the figure:** The figure can be generated using the following code in R.
 
+https://github.com/CaitHRobinson/SpatialInequalityintheSmartCity/issues/2#issue-691162350
+
