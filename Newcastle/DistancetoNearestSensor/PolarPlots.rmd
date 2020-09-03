@@ -28,12 +28,8 @@ df3 <- data.frame(variable = as.factor(data$Letter),
                   value = data$Young_AverageDistance)
 df3
 
-
-
 df4 <- data.frame(variable = as.factor(data$Letter),
-
                   value = data$OlderAge_AverageDistance)
-
 df4
 
 df5 <- data.frame(variable = as.factor(data$Letter),
