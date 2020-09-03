@@ -7,3 +7,5 @@
 
 # Newcastle descriptive analyses
 This folder contains details of a three descriptive analyses building on these datasets: (1) by [sensor type and deprivation classification](https://github.com/CaitHRobinson/SpatialInequalityintheSmartCity/tree/master/Newcastle/SensorType), (2) by [distance to nearest sensor and socioeconomic variables](https://github.com/CaitHRobinson/SpatialInequalityintheSmartCity/tree/master/Newcastle/DistancetoNearestSensor), and (3) by [sensor coverage and internet user classification](https://github.com/CaitHRobinson/SpatialInequalityintheSmartCity/tree/master/Newcastle/InternetUsers).
+
+
