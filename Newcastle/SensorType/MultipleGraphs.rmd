@@ -1,6 +1,6 @@
 ### Set your working directory
 #### Tell R where to find your data, where you can then store any outputs that you create. 
-setwd("/SensorType")
+setwd("SpatialInequalityintheSmartCity/Newcastle/SensorType")
 getwd()
 
 ### Load required packages
