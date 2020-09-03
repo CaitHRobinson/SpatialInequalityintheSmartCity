@@ -8,3 +8,4 @@
 
 # Newcastle descriptive analyses
 
+This file contains details of a range three descriptive analyses based on these datasets: (1) by sensor type and deprivation, (2) by distance and socioeconomic variables, and (3) by internet user classification.
