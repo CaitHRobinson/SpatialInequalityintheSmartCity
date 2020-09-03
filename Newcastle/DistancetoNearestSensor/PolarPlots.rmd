@@ -1,5 +1,5 @@
 ### Set working directory
-setwd("C:/Users/chrobin/OneDrive - The University of Liverpool/Projects/SpatialInequalityintheSmartCity/Analysis/DistancetoHub")
+setwd("SpatialInequalityintheSmartCity/Newcastle/")
 getwd()
 
 ### Install packages for plotting multiple graphs alongside one another
