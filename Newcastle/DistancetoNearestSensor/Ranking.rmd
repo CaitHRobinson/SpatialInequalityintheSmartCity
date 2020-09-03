@@ -6,7 +6,7 @@ getwd()
 library(dplyr)
 
 ## Read the data
-data <- read.csv("SocioEconomic_LSOA.csv")
+data <- read.csv("SocioEconomic_LSOA_England.csv")
 head(data)
 colnames(data)
 
