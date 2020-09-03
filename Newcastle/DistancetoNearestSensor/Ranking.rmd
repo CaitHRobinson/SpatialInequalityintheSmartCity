@@ -1,5 +1,5 @@
 # Set the working directory 
-setwd("C:/Users/chrobin/OneDrive - The University of Liverpool/Projects/SpatialInequalityintheSmartCity/Analysis/Sensors")
+setwd("SpatialInequalityintheSmartCity/Newcastle/")
 getwd()
 
 ## Install dplyr package
