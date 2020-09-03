@@ -1,4 +1,4 @@
-### Distance to nearest sensor
+## Distance to nearest sensor
 
 **Distance to Nearest Hub:** 
 For the purpose of this analysis we used the [Population Weighted Centroids (PWC)](https://geoportal.statistics.gov.uk/datasets/b20460edf2f3459fa7d2771eacab51fc) for each LSOA in the dataset. PWC represent the spatial distribution of the population in each small area. For the purpose of this analysis we used the [Population Weighted Centroids (PWC)](https://geoportal.statistics.gov.uk/datasets/b20460edf2f3459fa7d2771eacab51fc) for each LSOA in the dataset. PWC represent the spatial distribution of the population in each small area. The [*Distance to Nearest Hub*]( https://gis4design.wordpress.com/2015/11/13/qgis-distance-to-nearest-hub/) tool in QGIS was used to calculate the nearest "hub", in this case air quality sensor, to each LSOA. Access the distance to hub shapefile [here](https://github.com/CaitHRobinson/SpatialInequalityintheSmartCity/blob/master/Newcastle/DistancetoNearestSensor/DistancetoHub_AQ_LSOAPWC_NewcastleuponTyne.shp.zip).
