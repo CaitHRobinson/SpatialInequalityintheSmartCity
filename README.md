@@ -6,7 +6,7 @@ As a central component of the smart city, sensor infrastructures locate and meas
 
 **Keywords:** Sensor desert, smart city, spatial inequality, data justice, recognition.
 
-**Acknowledgements:** This project is funded by the Alan Turing Insitute project #R-NEW-001. We are also grateful to our project partners, Newcastle Urban Observatory. 
+**Acknowledgements:** This project is funded by the [Alan Turing Insitute project #R-NEW-001](https://www.turing.ac.uk/research/research-projects/spatial-inequality-and-smart-city). We are also grateful to our project partners, Newcastle Urban Observatory. 
 
 ## Sensor deserts
 There are multiple ways of conceptualising sensor deserts: 
