@@ -11,4 +11,7 @@ The figure can be generated with the accompanying [R code](https://github.com/Ca
 
 **Diagnostics:** In addition [diagnostics from the paper](https://github.com/CaitHRobinson/SpatialInequalityintheSmartCity/blob/master/Newcastle/SensorType/Diagnostics.rmd) tell us about the strength of the relationship between different sensor types and deprivation.
 
+![Diagnositcs](https://user-images.githubusercontent.com/57355504/92217822-1c8e2380-ee90-11ea-93c0-c37e8bfffe0c.png)
+
+
 
