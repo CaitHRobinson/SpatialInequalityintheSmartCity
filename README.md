@@ -1,4 +1,4 @@
-## SpatialInequalityintheSmartCity
+## Spatial Inequality in the Smart City
 This repo contains the materials to reproduce descriptive statistics and figures from *The sensor desert quandary: What does it mean (not) to count in the smart city?* recently published in Transactions of the Institute of British Geographers. The paper is available here: 
 
 **Abstract:**
