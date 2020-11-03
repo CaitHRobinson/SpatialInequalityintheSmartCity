@@ -9,9 +9,9 @@ As a central component of the smart city, sensor infrastructures locate and meas
 **Acknowledgements:** This project is funded by the [Alan Turing Insitute project #R-NEW-001](https://www.turing.ac.uk/research/research-projects/spatial-inequality-and-smart-city). We are also grateful to the [Newcastle Urban Observatory](https://urbanobservatory.ac.uk/). 
 
 ## Sensor deserts
-There are multiple ways of conceptualising sensor deserts: 
+There are multiple ways of conceptualising sensor deserts (see table). In this analysis, we take a material and utilitarian approach to measurement of sensor coverage. We therefore assume that if a small area contains a sensor then it has coverage to some degree, limiting our understanding in several ways. This binary approach underestimates the complexity of sensor technologies and the data generated, given that different types of sensors vary in their scales of measurement. We cannot account for diversity within each small area, or its size, and therefore the extent to which a single sensor is representative of that setting. The approach also does not account for areas that contain more than one sensor. These assumptions are necessary owing to the constraints imposed by the boundaries for which administrative datasets are available. 
 
 ![Capture](https://user-images.githubusercontent.com/57355504/92118640-a685b000-edee-11ea-9089-b19608b8c6f1.PNG)
 
-In the analyses in this repo, we take a material and utilitarian approach to measurement of sensor coverage. We therefore assume that if a small area contains a sensor then it has coverage to some degree, limiting our understanding in several ways. This binary approach underestimates the complexity of sensor technologies and the data generated, given that different types of sensors vary in their scales of measurement. We cannot account for diversity within each small area, or its size, and therefore the extent to which a single sensor is representative of that setting. The approach also does not account for areas that contain more than one sensor. These assumptions are necessary owing to the constraints imposed by the boundaries for which administrative datasets are available. 
+
 
